@@ -1,5 +1,5 @@
-# MLLab
-**NAME** : M. Siddhartha  
-**ID** : B200670  
-**Class** : CSE-C2  
-**Roll No** : 28
+# MachineLearningLab
+**NAME**   : M. Siddhartha  
+**ID**     : B200670  
+**Class**  : CSE-C2  
+**Roll No**: 28
